@@ -74,8 +74,3 @@ Merhaba! Ben Nazlı Ünay, Necmettin Erbakan Üniversitesi Bilgisayar Mühendisl
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NazliUnay&theme=tokyonight" height="150"/>
 </p>
 
-## 🐍 Commit Yılanı
-
-<p align="center">
-  <img src="https://github.com/NazliUnay/NazliUnay/blob/output/snake.svg" alt="Snake animation in soft tones" />
-</p>
