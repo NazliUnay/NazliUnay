@@ -4,62 +4,70 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F4C1D9&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;AI+%7C+Qt+%7C+C%2B%2B+Enthusiast;Tech+%2B+Art+%3D+🧠+%2B+🎨;Creative+Problem+Solver+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/NazliUnay">
-    <img src="https://img.shields.io/badge/GitHub-NazliUnay-F4C1D9?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/nazlirella">
-    <img src="https://img.shields.io/badge/LinkedIn-nazlirella-A8D5BA?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@nazli_unay">
-    <img src="https://img.shields.io/badge/Medium-nazli__unay-F4C1D9?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/nazlirellaa/">
-    <img src="https://img.shields.io/badge/Art%20Gallery-@nazlirellaa-A8D5BA?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ## 🌟 Hakkımda
 
-Merhaba! Ben **Şerife Nazlı Ünay**. Necmettin Erbakan Üniversitesi Bilgisayar Mühendisliği bölümünde öğrenciyim.  
-Teknoloji ve sanatı birleştirerek yenilikçi projeler geliştirmeye tutkuyla bağlıyım.
+Merhaba! Ben Nazlı Ünay. Necmettin Erbakan Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim.  
 
 ---
 
 ## 💼 Teknik Yetenekler
 
-- **Programlama Dilleri:** C, C++, Python, Java, JavaScript  
-- **Web Teknolojileri:** HTML, CSS, JavaScript  
-- **UI/UX Geliştirme:** Qt, QML  
-- **Veritabanı:** SQLite  
-- **Araçlar & Tasarım:** Git, GitHub, Figma, Canva, Krita, IbisPaint
+- **Programlama Dilleri**: C, C++, Python, Java, JavaScript  
+- **Web Geliştirme**: HTML, CSS, JavaScript  
+- **UI/UX Geliştirme**: Qt, QML  
+- **Veritabanı**: SQLite  
+- **Araçlar**: Git, GitHub, Figma, Canva, Krita, IbisPaint  
 
 ---
 
 ## 🧠 İlgi Alanlarım
 
-- Yapay Zeka & Makine Öğrenimi  
+- Yapay Zeka ve Makine Öğrenimi  
 - Blockchain & Kriptografi  
-- Açık Kaynak Kod & Topluluk Katılımı  
-- Görsel Sanatlar & Dijital İfade  
+- Açık Kaynak Kod Geliştirme  
+- Görsel Sanatlar ve Dijital İfade  
 
 ---
 
-## 🎨 Sanat ve Kodun Buluşması
+## 🎨 Sanatla Yazılımın Kesişiminde
 
-Yazılım, benim için sadece mantık değil; aynı zamanda bir sanat formudur.  
-Akrilik tablolarımdan dijital çizimlere kadar sanat çalışmalarımı Instagram sayfamda paylaşıyorum:  
+Kod yazmak, benim için bir sanat formu.  
+Çizimlerimi ve dijital sanat eserlerimi Instagram’da paylaşıyorum:  
 🔗 [nazlirellaa – Instagram](https://www.instagram.com/nazlirellaa/)
 
 ---
 
-## 📊 GitHub İstatistikleri
+## 📈 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NazliUnay&show_icons=true&theme=react&hide=issues&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazliUnay&layout=compact&theme=react&hide=issues" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NazliUnay&show_icons=true&theme=radical&hide=issues&hide_title=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazliUnay&layout=compact&theme=radical&hide_title=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NazliUnay&theme=radical&hide_border=true" alt="GitHub Streak" height="140" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=NazliUnay&theme=radical&area=true&hide_border=true" alt="GitHub Activity Graph" height="140" />
+</p>
+
+---
+
+## 🔗 Bağlantılar
+
+<p align="center">
+  <a href="https://github.com/NazliUnay" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/GitHub-NazliUnay-A8D5BA?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/serife-nazli-unay/" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-nazlirella-F4C1D9?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@nazli_unay" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Medium-nazli__unay-A8D5BA?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/nazlirellaa/" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Art%20Gallery-@nazlirellaa-F4C1D9?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 
