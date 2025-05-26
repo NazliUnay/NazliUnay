@@ -23,42 +23,44 @@
 
 ## 🌟 Hakkımda
 
-Merhaba! Ben Nazlı Ünay. Necmettin Erbakan Üniversitesi'nde Bilgisayar Mühendisliği öğrencisiyim.  
+Merhaba! Ben **Şerife Nazlı Ünay**. Necmettin Erbakan Üniversitesi Bilgisayar Mühendisliği bölümünde öğrenciyim.  
+Teknoloji ve sanatı birleştirerek yenilikçi projeler geliştirmeye tutkuyla bağlıyım.
 
 ---
 
 ## 💼 Teknik Yetenekler
 
-- **Programlama Dilleri**: C, C++, Python, Java, JavaScript
-- **Web Geliştirme**: HTML, CSS, JS
-- **UI/UX Geliştirme**: Qt, QML
-- **Veritabanı**: SQLite
-- **Araçlar**: Git, GitHub, Figma, Canva, Krita, IbisPaint
+- **Programlama Dilleri:** C, C++, Python, Java, JavaScript  
+- **Web Teknolojileri:** HTML, CSS, JavaScript  
+- **UI/UX Geliştirme:** Qt, QML  
+- **Veritabanı:** SQLite  
+- **Araçlar & Tasarım:** Git, GitHub, Figma, Canva, Krita, IbisPaint
 
 ---
 
 ## 🧠 İlgi Alanlarım
 
-- Yapay Zeka ve Makine Öğrenimi  
+- Yapay Zeka & Makine Öğrenimi  
 - Blockchain & Kriptografi  
-- Açık Kaynak Kod Geliştirme  
-- Görsel Sanatlar ve Dijital İfade  
+- Açık Kaynak Kod & Topluluk Katılımı  
+- Görsel Sanatlar & Dijital İfade  
 
 ---
 
-## 🎨 Sanatla Yazılımın Kesişiminde
+## 🎨 Sanat ve Kodun Buluşması
 
-Benim için kod yazmak da resim yapmak gibi bir ifade biçimidir.  
-Zaman zaman yazılımdan uzaklaşıp, kendi çizimlerimi paylaştığım **sanat sayfam**:  
+Yazılım, benim için sadece mantık değil; aynı zamanda bir sanat formudur.  
+Akrilik tablolarımdan dijital çizimlere kadar sanat çalışmalarımı Instagram sayfamda paylaşıyorum:  
 🔗 [nazlirellaa – Instagram](https://www.instagram.com/nazlirellaa/)
 
 ---
 
-## 📈 GitHub İstatistikleri
+## 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NazliUnay&show_icons=true&theme=radical&hide=issues" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazliUnay&layout=compact&theme=radical" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=NazliUnay&show_icons=true&theme=react&hide=issues&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazliUnay&layout=compact&theme=react&hide=issues" height="150" alt="Top Languages" />
 </p>
+
 
 
