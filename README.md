@@ -8,7 +8,7 @@
 
 ## 🌟 Hakkımda
 
-Merhaba! Ben Nazlı Ünay, Necmettin Erbakan Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Yazılım ve teknolojiye olan ilgimle birlikte, sanatla da iç içeyim. Kendi dijital ve geleneksel sanat çalışmalarımı Instagram’da **nazlirellaa** hesabımda paylaşıyorum.
+Merhaba! Ben Şerife Nazlı Ünay, Necmettin Erbakan Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Yazılım ve teknolojiye olan ilgimle birlikte, sanatla da iç içeyim. Kendi dijital ve geleneksel sanat çalışmalarımı Instagram’da **nazlirellaa** hesabımda paylaşıyorum.
 
 ---
 
