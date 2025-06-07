@@ -21,7 +21,6 @@ Merhaba! Ben Nazlı Ünay, Necmettin Erbakan Üniversitesi Bilgisayar Mühendisl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" title="Java" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript" style="margin: 0 10px;" />
 </p>
----
 
 ## 📫 İletişim ve Sosyal Medya
 
