@@ -21,25 +21,6 @@ Merhaba! Ben Nazlı Ünay, Necmettin Erbakan Üniversitesi Bilgisayar Mühendisl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" title="Java" style="margin: 0 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript" style="margin: 0 10px;" />
 </p>
-
----
-## 🧠 İlgi Alanlarım
-
-<p align="center">
-   <a href="https://en.wikipedia.org/wiki/Software_development" target="_blank" rel="noopener noreferrer" title="Yazılım Geliştirme" style="margin:0 20px;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F4C1D9&width=180&lines=Software" alt="Yazılım Geliştirme Animasyon" />
-  </a>
-  </a>
-   <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank" rel="noopener noreferrer" title="Yapay Zeka" style="margin:0 20px;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A8D5BA&width=180&lines=AI" alt="Yapay Zeka Animasyon" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Blockchain" target="_blank" rel="noopener noreferrer" title="Blockchain" style="margin:0 20px;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=CBA0D7&width=220&lines=Blockchain" alt="Blockchain Animasyon" />
-  <a href="https://www.instagram.com/nazlirellaa/" target="_blank" rel="noopener noreferrer" title="Sanat" style="margin:0 20px;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=A8D5BA&width=160&lines=Art" alt="Sanat Animasyon" />
-  </a>
-</p>
-
 ---
 
 ## 📫 İletişim ve Sosyal Medya
