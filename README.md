@@ -45,11 +45,10 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <!-- En çok kullanılan diller -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazliUnay&layout=compact&title_color=4169E1&text_color=87CEFA&bg_color=0d1117&border_color=1E3A8A" height="150" />
-
-  <!-- Art arda katkı günleri -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=NazliUnay&theme=default&background=0D1117&ring=1E3A8A&fire=4682B4&currStreakLabel=87CEFA&sideLabels=87CEFA&currStreakNum=87CEFA&sideNums=87CEFA&dates=708090" height="150" />
 </p>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NazliUnay&color=blueviolet" alt="NazliUnay" />
+</p>
