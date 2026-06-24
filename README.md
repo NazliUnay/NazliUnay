@@ -52,3 +52,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NazliUnay&color=blueviolet" alt="NazliUnay" />
 </p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NazliUnay&show_icons=true&theme=dark&count_private=true)
+
