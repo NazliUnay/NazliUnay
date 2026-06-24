@@ -55,3 +55,5 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NazliUnay&show_icons=true&theme=dark&count_private=true)
 
+![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNazliUnay)
+
