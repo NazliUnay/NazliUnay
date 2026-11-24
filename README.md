@@ -3,15 +3,30 @@
 </p>
 
 <p align="center">
-  <img src="my_gif.gif" alt="Coding animation" width="360" />
+  <img src="https://raw.githubusercontent.com/NazliUnay/NazliUnay/main/my_gif.gif" alt="Coding animation" width="360" />
 </p>
 
-- 🎓 Computer Engineering student · 🛰️ IT intern @ **Türksat**
-- 🛡️ Leading **[MetaDipGuard](https://github.com/MetaDipGuard)** — Avalanche · NFT · ZK-Proof · AI anomaly detection
+### 👩‍💻 About Me
+
+- 🎓 4th-year **Computer Engineering** student
+- 🛰️ Long-term **IT intern** at **Türksat** — System & Network Management (Linux, DNS, Nginx, Docker)
+- 🛡️ Leading **[MetaDipGuard](https://github.com/MetaDipGuard)** — a decentralized protection platform built on Avalanche, using ERC-721 NFT certificates, zero-knowledge proofs and AI-based anomaly detection
+- 🌱 Interested in blockchain security, applied cryptography, mobile development and machine learning
+
+### 🚀 Featured Projects
+
+- 🔐 **[steganografi_aes_ile](https://github.com/Kripto-Odev/steganografi_aes_ile)** — Two-layer data hiding with AES-256 encryption and PVD steganography
+- 🎙️ **[Emotion Analysis App](https://github.com/Uygulama-Tasarimi-Projesi/app)** — Flutter app detecting emotions from text and voice recordings
+- 🎬 **[AI Film App](https://github.com/Yapay-Zeka-Giris/AI_FILM_APP)** — Hybrid movie recommender (TF-IDF + KNN + K-Means) for individuals and groups
+- 🧠 **[Psychological Risk Classification](https://github.com/Veri-Analizi-Proje-Odevi/High-Psychological-Risk-Classification-Based-on-Social-Media-Usage)** — ML model predicting risk from social media usage patterns
+
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,cs,java,kotlin,dart,flutter,solidity,linux,docker,nginx,git" alt="Tech stack" />
 </p>
+
+### 📊 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazliUnay&layout=compact&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9" height="150" alt="Top languages" />
