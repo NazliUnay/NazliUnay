@@ -1,59 +1,24 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student" alt="Typing SVG" /> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Blockchain+%7C+ZK-Proof+%7C+AI" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="my_gif.gif" alt="Ekran Kaydı GIF" width="600" />
+  <img src="my_gif.gif" alt="Coding animation" width="360" />
 </p>
 
----
-
-## 🚀 Technology Stack
-
-<p align="center">
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/django/092E20" width="40" alt="Django" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Statistics
+- 🎓 Computer Engineering student · 🛰️ IT intern @ **Türksat**
+- 🛡️ Leading **[MetaDipGuard](https://github.com/MetaDipGuard)** — Avalanche · NFT · ZK-Proof · AI anomaly detection
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazliUnay&layout=compact&title_color=4169E1&text_color=87CEFA&bg_color=0d1117&border_color=1E3A8A" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NazliUnay&theme=default&background=0D1117&ring=1E3A8A&fire=4682B4&currStreakLabel=87CEFA&sideLabels=87CEFA&currStreakNum=87CEFA&sideNums=87CEFA&dates=708090" height="150" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,cs,java,kotlin,dart,flutter,solidity,linux,docker,nginx,git" alt="Tech stack" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NazliUnay&color=blueviolet" alt="NazliUnay" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazliUnay&layout=compact&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9" height="150" alt="Top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NazliUnay&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" height="150" alt="Streak stats" />
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NazliUnay&show_icons=true&theme=dark&count_private=true)
-
-![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNazliUnay)
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/serife-nazli-unay"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@nazli_unay"><img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>
+</p>
