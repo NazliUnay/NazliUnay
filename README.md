@@ -2,23 +2,27 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Computer+Engineering+%26+MIS+Student;Blockchain+Developer+%40+MetaDipGuard;System+%26+Network+Intern+%40+T%C3%BCrksat" alt="Typing SVG" />
 </p>
 
-### About Me
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NazliUnay/NazliUnay/main/my_gif.gif" alt="Coding animation" width="360" />
+</p>
 
-- **Computer Engineering** @ Necmettin Erbakan University · **MIS** @ Istanbul University
-- **Long-term Intern @ Türksat** — Linux virtual servers, Netplan networking and DNS on Türksat Cloud
-- **Blockchain Developer & Team Captain @ [MetaDipGuard](https://github.com/MetaDipGuard)** — **TEKNOFEST 2026 Finalist**<br/>
+### 👩‍💻 About Me
+
+- 🎓 **Computer Engineering** @ Necmettin Erbakan University · **MIS** @ Istanbul University
+- 🛰️ **Long-term Intern @ Türksat** — Linux virtual servers, Netplan networking and DNS on Türksat Cloud
+- 🛡️ **Blockchain Developer & Team Captain @ [MetaDipGuard](https://github.com/MetaDipGuard)** — 🏆 **TEKNOFEST 2026 Finalist**<br/>
   Non-transferable NFT diplomas and MultiSig verification on Avalanche Fuji · KVKK/GDPR-compliant hash-only design · UUPS upgradeable contracts · Hardhat & Slither tested
-- Turkish (native) · English (B2)
+- 🌍 Turkish (native) · English (B2)
 
-### Featured Projects
+### 🚀 Featured Projects
 
-- **[Emotion Analysis from Audio & Text](https://github.com/Uygulama-Tasarimi-Projesi/app)** — CNN-LSTM text model with Zemberek (88% acc.) + 2D-CNN MFCC audio model, deployed via TensorFlow Lite in Flutter/Kotlin
-- **[Psychological Risk Classification](https://github.com/Veri-Analizi-Proje-Odevi/High-Psychological-Risk-Classification-Based-on-Social-Media-Usage)** — Random Forest, SVM and Logistic Regression comparison with an interactive Streamlit interface
-- **[AI Movie Recommender](https://github.com/Yapay-Zeka-Giris/AI_FILM_APP)** — K-Means + KNN hybrid engine on MovieLens 100K, FastAPI & MSSQL backend, Flutter app
-- **[YKS Hocam](https://github.com/NazliUnay/YksHocam-App)** — iOS & Android exam assistant with subject tracking and Pomodoro; Flutter, ASP.NET Web API, MSSQL
-- **[steganografi_aes_ile](https://github.com/Kripto-Odev/steganografi_aes_ile)** — Two-layer data hiding with AES-256 encryption and PVD steganography
+- 🎙️ **[Emotion Analysis from Audio & Text](https://github.com/Uygulama-Tasarimi-Projesi/app)** — CNN-LSTM text model with Zemberek (88% acc.) + 2D-CNN MFCC audio model, deployed via TensorFlow Lite in Flutter/Kotlin
+- 🧠 **[Psychological Risk Classification](https://github.com/Veri-Analizi-Proje-Odevi/High-Psychological-Risk-Classification-Based-on-Social-Media-Usage)** — Random Forest, SVM and Logistic Regression comparison with an interactive Streamlit interface
+- 🎬 **[AI Movie Recommender](https://github.com/Yapay-Zeka-Giris/AI_FILM_APP)** — K-Means + KNN hybrid engine on MovieLens 100K, FastAPI & MSSQL backend, Flutter app
+- 📚 **[YKS Hocam](https://github.com/NazliUnay/YksHocam-App)** — iOS & Android exam assistant with subject tracking and Pomodoro; Flutter, ASP.NET Web API, MSSQL
+- 🔐 **[steganografi_aes_ile](https://github.com/Kripto-Odev/steganografi_aes_ile)** — Two-layer data hiding with AES-256 encryption and PVD steganography
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 **Languages**<br/>
 <a href="https://www.python.org" title="Python"><img src="https://skillicons.dev/icons?i=py" width="44" alt="Python" /></a>
@@ -58,13 +62,13 @@
 <a href="https://github.com" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="44" alt="GitHub" /></a>
 <a href="https://www.figma.com" title="Figma"><img src="https://skillicons.dev/icons?i=figma" width="44" alt="Figma" /></a>
 
-### Certifications
+### 📜 Certifications
 
 - Turkcell Geleceği Yazanlar — Women Who Write the Future AI Program, Python 101–401
 - BTK Akademi — Blockchain & Cryptocurrencies, Git & GitHub, C Programming
 - TÜBİTAK — National Technology Clubs Union Academy Camp (2026)
 
-### Stats
+### 📊 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazliUnay&layout=compact&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9" height="150" alt="Top languages" />
@@ -75,4 +79,8 @@
   <a href="https://www.linkedin.com/in/serife-nazli-unay"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://medium.com/@nazli_unay"><img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>
   <a href="mailto:unay.nazli42@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NazliUnay&label=visitors&color=0e75b6&style=flat" alt="Visitors" />
 </p>
